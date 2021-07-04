@@ -1,0 +1,11 @@
+.box fieldset{
+      box-sizing: border-box;
+      box-shadow: blue; 
+     box-align: centre;
+
+}
+
+body{
+    background-color: skyblue;
+    background-image:url(./img/rest.jpg);
+}
